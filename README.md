@@ -19,7 +19,7 @@
 - ✅ Acessibilidade em Web desenvolvimento - Introdução. https://bit.ly/3wLNycg
 - ✅ Rede de computadores - Fundamentos. https://bit.ly/3nhgbuE
 - ✅ Windows - Fundamentos para Desenvolvedores. https://bit.ly/3kFKdGF
-- ✅ HTML Web Developer. https://bit.ly/3qJKxYS
+- ✅ HTML Web Developer - https://adobe.ly/3KlF1lI
 - ✅ HTML | CSS - Fundamentos de HTML5 | CSS3. https://bit.ly/30v5xI4
 - ✅ HTML | CSS - Geradores de sites estáticos em HTML5 | CSS3. https://bit.ly/3FnqaoD
 - ✅ Lógica de Programação Completo. https://bit.ly/3chDJsZ
