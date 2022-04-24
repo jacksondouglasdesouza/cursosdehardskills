@@ -1,5 +1,8 @@
 # Meus Cursos de Hard Skills 🧑🏽‍🔧 
 
+- ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos
+- ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos
+- ✅ UI Design Fundamental - ORIGAMID Treinamentos
 - ✅ Projeto de Curso JavaScript Intermediário - Jogo da Velha Online. https://bit.ly/3N9b7nf
 - ✅ JavaScript Básico. https://bit.ly/3JYgh3R 
 - ✅ HTML5 e CSS3 - Desenvolvimento web Avançado. https://bit.ly/3EVrChe 
