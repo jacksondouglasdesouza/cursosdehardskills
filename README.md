@@ -3,6 +3,7 @@
 - ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos - Cursando
 - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos - Cursando
 - ✅ UI Design Fundamental - ORIGAMID Treinamentos - Cursando
+- ✅ Fundamentos de Arquitetura de Software e Aplicações - https://bit.ly/3KTNZqm
 - ✅ Atividade de Extensão - Formação inicial em Programação Web - IFSC - Instituto Federal de Santa Catarina. https://adobe.ly/3MvR1SP
 - ✅ Projeto de Curso JavaScript Intermediário - Jogo da Velha Online. https://bit.ly/3N9b7nf
 - ✅ JavaScript Básico. https://bit.ly/3JYgh3R 
