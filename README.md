@@ -3,7 +3,7 @@
 - ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos - Cursando
 - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos - Cursando
 - ✅ UI Design Fundamental - ORIGAMID Treinamentos - Cursando
-
+- 
 - ✅ Prototipação rápida de software - https://bit.ly/37xmBRs
 - ✅ Fundamentos de Projeto de Banco de dados - https://bit.ly/3LY6sn2
 - ✅ Fundamentos de Arquitetura de Software e Aplicações - https://bit.ly/3KTNZqm
@@ -11,6 +11,7 @@
 - ✅ Projeto de Curso JavaScript Intermediário - Jogo da Velha Online. https://bit.ly/3N9b7nf
 - ✅ JavaScript Básico. https://bit.ly/3JYgh3R 
 - ✅ HTML5 e CSS3 - Desenvolvimento web Avançado. https://bit.ly/3EVrChe 
+- ✅ Git - Fundamentos - https://bit.ly/3KYKyii
 - ✅ Ubuntu Linux - Fundamentos para Desenvolvedor. https://bit.ly/3Dz7EJe
 - ✅ macOS - Fundamentos para desenvolvedores - https://bit.ly/37uyIhZ
 - ✅ Linux - Fundamentos para desenvolvedores. https://bit.ly/3oA0KgK
@@ -18,6 +19,7 @@
 - ✅ Java - Fundamentos. https://bit.ly/30snp5X
 - ✅ JavaScript - Fundamentos. https://bit.ly/3wQk3G9
 - ✅ Linguagem C - Básico. https://bit.ly/3nfpyuW
+- ✅ Formação Base para desenvolvedores - https://bit.ly/3vVKSdh
 - ✅ Lógica Orientada a Objetos Completo. https://bit.ly/3DzxblP
 - ✅ Lógica de Programação em C- Completo. https://bit.ly/3qFRkml
 - ✅ Lógica de programação em C - Exercícios práticos de estruturas de repetição. https://bit.ly/3cihJ1j
