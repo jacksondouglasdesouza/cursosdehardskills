@@ -3,7 +3,7 @@
 - ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos - Cursando
 - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos - Cursando
 - ✅ UI Design Fundamental - ORIGAMID Treinamentos - Cursando
-- 
+- ✅ macOS - Fundamentos para desenvolvedores - https://bit.ly/37uyIhZ
 - ✅ Prototipação rápida de software - https://bit.ly/37xmBRs
 - ✅ Fundamentos de Projeto de Banco de dados - https://bit.ly/3LY6sn2
 - ✅ Fundamentos de Arquitetura de Software e Aplicações - https://bit.ly/3KTNZqm
