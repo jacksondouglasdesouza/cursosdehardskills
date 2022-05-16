@@ -4,6 +4,8 @@
 - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos - Cursando
 - ✅ UI Design Fundamental - ORIGAMID Treinamentos - Cursando
 - 
+- ✅ Java - Configurando o VS Code - https://bit.ly/3wik7zO
+- ✅ Java - Fundamentos. https://bit.ly/30snp5X
 - ✅ Prototipação rápida de software - https://bit.ly/37xmBRs
 - ✅ Fundamentos de Projeto de Banco de dados - https://bit.ly/3LY6sn2
 - ✅ Fundamentos de Arquitetura de Software e Aplicações - https://bit.ly/3KTNZqm
@@ -16,7 +18,6 @@
 - ✅ macOS - Fundamentos para desenvolvedores - https://bit.ly/37uyIhZ
 - ✅ Linux - Fundamentos para desenvolvedores. https://bit.ly/3oA0KgK
 - ✅ HTML5 e CSS3 - Desenvolvimento web Básico. https://bit.ly/3HpkcVZ
-- ✅ Java - Fundamentos. https://bit.ly/30snp5X
 - ✅ JavaScript - Fundamentos. https://bit.ly/3wQk3G9
 - ✅ Linguagem C - Básico. https://bit.ly/3nfpyuW
 - ✅ Formação Base para desenvolvedores - https://bit.ly/3vVKSdh
