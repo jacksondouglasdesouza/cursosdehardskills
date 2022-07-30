@@ -1,6 +1,6 @@
 # Meus Cursos de Hard Skills 🧑🏽‍🔧 
 
-- ✅ Studying - Front-End Engineer - Codecademy
+- ✅ Studying - Front-End Engineer Certification - Codecademy
 - ✅ JavaScript Completo ES6 - ORIGAMID Treinamentos - Cursando
 - ✅ HTML5 e CSS3 Completo - ORIGAMID Treinamentos - Cursando
 - ✅ UI Design Fundamental - ORIGAMID Treinamentos - Cursando
